@@ -1,2 +1,10 @@
 # voxel_time_series_plot
-Plot some stuff
+
+This repo contains code to reproduce the figure X from article [include citation].
+
+In order to run this, you need:
+
+- 
+- 
+- 
+
